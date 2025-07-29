@@ -58,9 +58,8 @@ Master's student in Computer Science with a passion for building full-stack appl
 ## 📫 Contact
 <p>
   <a href="mailto:Bhanu_teja.muppala@okstate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/bhanutejamuppala"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="tel:+14055646450"><img src="https://img.shields.io/badge/Phone-4055646450-orange?style=for-the-badge" /></a>
-  <a href="https://behance.net/bhanutejamuppala"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhanu-teja-muppala-a73750217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://behance.net/bhanuuteja"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
 <div align="center">
