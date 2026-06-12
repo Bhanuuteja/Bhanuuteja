@@ -1,20 +1,18 @@
 
-# Bhanu Teja Muppala <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-
-
 ## 🚀 Summary
 
-Master's student in Computer Science with a passion for building full-stack applications. Proficient in Python, JavaScript, and Java, with hands-on experience developing solutions using React, Node.js, and Django. Currently exploring emerging technologies in AI/ML and GenAI.
-
+AI Engineer and Master's student in Computer Science, building Generative AI and LLM-based systems including RAG architectures, agentic pipelines, and RLHF-based fine-tuning. Experienced across the full model lifecycle (data preparation, model development, evaluation, and deployment) as well as full-stack development with React, Node.js, FastAPI, and Django. Currently exploring agentic systems, vector databases, and LangChain/LangGraph.
 
 <details>
   <summary><b>🛠️ Technical Skills</b></summary>
   <ul>
-    <li>Programming: <b>Python, JAVA, C, R, MATLAB</b></li>
-    <li>Web Development: <b>HTML, CSS, JS, Angular, Streamlit, React.js, Node.js, PHP</b></li>
-    <li>Database: <b>Microsoft SQL Server, MySQL, SQLite</b></li>
-    <li>Cloud & Tools: <b>AWS, Mac OS, Linux, MS Excel, Tableau, Git, VS Code, Postman, Jupyter</b></li>
-    <li>Design: <b>Photoshop, Illustrator, Figma</b></li>
+    <li>Programming: <b>Java, Python, TypeScript, C, R, MATLAB</b></li>
+    <li>GenAI / NLP / ML: <b>PyTorch, TensorFlow, Agentic Systems, LangChain/LangGraph, RLHF, Prompt Engineering & Chaining, Context Engineering, RAG, Vector Databases (ChromaDB), Hugging Face Transformers & Diffusers, XGBoost</b></li>
+    <li>Web Development: <b>HTML, CSS, JavaScript, React.js, Node.js, Angular, Streamlit, PHP</b></li>
+    <li>Backend Frameworks: <b>FastAPI, Django, Flask</b></li>
+    <li>Data & Systems: <b>Pandas/Numpy, PostgreSQL, MongoDB, Kafka, Redis, SQL, RDBMS</b></li>
+    <li>Cloud & DevOps: <b>AWS, GCP, Docker, Kubernetes, Terraform, CI/CD</b></li>
+    <li>Other: <b>UI/UX Design (Figma), Debugging Complex Systems, Microservices Architecture, Performance Optimization, Automated Evaluation, Technical Documentation</b></li>
   </ul>
 </details>
 
@@ -31,34 +29,40 @@ Master's student in Computer Science with a passion for building full-stack appl
 <details>
   <summary><b>📚 Education</b></summary>
   <ul>
-    <li>Master’s in Computer Science, Oklahoma State University, Stillwater, OK<br>Graduation: May 2026 | GPA: 3.0<br>Coursework: Principles of Database Systems, Computer Organization and Architecture, Computer Security</li>
-    <li>Bachelor’s in Computer Science and Systems Engineering, Sree Vidyanikethan Engineering College, India<br>Coursework: OS Design & Implementation, Computer Networks, DBMS, C, Python, JAVA, Data Structures & Algorithms, Web Technologies, Data Warehousing & Mining</li>
+    <li>Master's in Computer Science, Oklahoma State University, Stillwater, OK<br>Graduation: May 2026<br>Coursework: Computer Organization and Architecture, Data Structures & Algorithms II, Operating Systems II, Principles of Database Systems (SQL/NoSQL, Query Optimization, Kafka, Neo4j), Distributed Systems and Cloud Computing, Machine Learning, LLMs Reasoning (Independent Study)</li>
+    <li>Bachelor's in Computer Science and Systems Engineering, Sree Vidyanikethan Engineering College, India<br>Coursework: Problem Solving, Programming in Java and Python, DBMS (SQL/NoSQL, Query Optimization), Data Engineering and Data Mining, OS Design & Implementation, Computer Networks</li>
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>💼 Experience</b></summary>
   <ul>
-    <li><b>Software Developer Intern</b> - Alvion Global Solutions (Jan 2024 - July 2024)<br><i>Developed and deployed user-friendly web applications using Python, Django, HTML, CSS, and Bootstrap. Assisted in debugging, testing, and deploying new features, ensuring code quality and functionality. Participated in daily stand-ups and sprint planning, gaining hands-on experience in agile development practices.</i></li>
-    <li><b>Student Lab Assistant</b> - Research and Development Center, Sree Vidyanikethan Engineering College, India (Jan 2022 - Dec 2023)<br><i>Provided technical support for lab equipment, assisted students and faculty in troubleshooting, organized lab space, maintained equipment inventory, and collaborated on data collection and project documentation.</i></li>
+    <li><b>Student Web Specialist</b> - Oklahoma State University (Aug 2025 - May 2026)<br><i>Migrated/reformatted legacy content to modern CMS platforms, ensuring branding consistency, content accuracy across 50+ pages, and reduced publishing errors through streamlined workflows. Implemented WCAG 2.1 Level AA accessibility standards, including semantic HTML improvements, contrast fixes, keyboard navigation, and ARIA attributes on key pages.</i></li>
+    <li><b>Research Assistant</b> - Oklahoma State University, (rAIson) Laboratory (Aug 2024 - Present)<br><i>Built a 150K+ synthetic visual dataset (StepGame) for VLM spatial reasoning research. Built an automated RLHF pipeline combining Qwen-VL, Clingo validation, and iterative generate-to-verify workflows. Designed an automated evaluation pipeline for ASP correctness and benchmarking — results currently under peer review.</i></li>
+    <li><b>Machine Learning Engineer</b> - Alvion Global Solutions (Jan 2024 - Jul 2024)<br><i>Developed NLP pipelines for multi-language voice systems and built FastAPI REST endpoints for production. Reduced inference latency for real-time voice processing through pipeline and serving-layer optimization. Contributed to deployment of an emotion-aware conversational AI system (VEMI AI) from research to beta.</i></li>
     <li><b>SEA Coordinator</b> - Systems Engineering Association, Sree Vidyanikethan Engineering College (Apr 2021 - May 2024)<br><i>Led the student body, organized technical events and coding contests for 300+ students, managed website content, and coordinated event logistics.</i></li>
+    <li><b>Treasurer</b> - Computer Science Graduate Student Association (CSGSA), Oklahoma State University (May 2025 - May 2026)<br><i>Managed finances and collaborated with cross-disciplinary teams to organize events, fostering communication and problem-solving in a dynamic environment.</i></li>
   </ul>
 </details>
 
-<details>
+<details open>
   <summary><b>🌟 Projects</b></summary>
   <ul>
-    <li><b>Online Farm-Basket</b> (PHP, MySQL, HTML, CSS, JavaScript, Kafka): Developed a responsive web platform connecting farmers directly with consumers, featuring product listing, cart management, order tracking, secure checkout, and real-time inventory/order updates via Kafka.</li>
-    <li><b>Smart Farming System</b> (Python, Streamlit, SQLite, Sensor Simulation): Created a user-friendly system simulating sensor data to monitor soil moisture and weather, trigger real-time alerts, allow manual irrigation control, and log farmer responses for field efficiency.</li>
-    <li><b>EduSea - Department Association Website</b> (PHP, MySQL, HTML, CSS, JavaScript): Designed and developed a dynamic website for the Systems Engineering Association to streamline event management, announcements, and communication with self-service content updates.</li>
-    <li><b>QR Code-Based Smart Printing System</b> (HTML/CSS, React.js, Node.js, Python, QR Code API, Print API, UPI Integration): Built a secure, touchless printing solution using dynamic QR codes for instant document retrieval at print kiosks, integrated UPI payments, and real-time print queue handling.</li>
+    <li><b><a href="https://files-psi-steel.vercel.app/">TwinMind - Real-Time AI Meeting Copilot</a></b> (Streaming Transcription, LangGraph, RAG, ChromaDB): Real-time AI meeting copilot using multi-stage LLM pipelines and ChromaDB vector storage to persist transcripts and enable context-aware conversations across long sessions. Designed a modular RAG pipeline with embedding retrieval, fault-tolerant handling of API failures, and end-to-end UI/UX.</li>
+    <li><b><a href="https://www.bhanutejamuppala.me/project/grad-craft">GradCraft-AI - Resume Builder</a></b> (RAG, LangGraph, MongoDB, LLMs): Full-stack AI resume platform that generates structured, ATS-optimized resumes using semantic search and embedding-based retrieval. Implements an agentic refinement loop using LangGraph that iteratively matches resumes against job descriptions and self-evaluates fit.</li>
+    <li><b><a href="https://www.bhanutejamuppala.me/project/4">CitiBike NYC - Demand Forecasting Dashboard</a></b> (XGBoost, Streamlit, MLOps): Automated MLOps system analyzing 69 months of trip data (5.7M+ records), clustering stations by traffic volume and forecasting hourly demand with cluster-specific XGBoost models. Includes an interactive Streamlit dashboard for non-technical users.</li>
+    <li><b><a href="https://www.bhanutejamuppala.me/project/3">Online Farm-Basket</a></b> (React.js, Node.js, PostgreSQL, Kafka, AWS, Docker): Full-stack e-commerce platform connecting farmers directly with consumers, featuring real-time inventory management via Kafka and a custom UI/UX.</li>
+    <li><b><a href="https://thegrenze.com/index.php?display=page&view=journalabstract&absid=2840&id=8">Tag Prediction of Stack Overflow Questions (Published Journal Paper)</a></b> (NLP, Linear SVM, NLTK): Co-authored a multi-label classification system to predict tags for Stack Overflow questions, achieving precision up to 79.98% — published in GIJET, Vol. 10, Issue 2, 2024.</li>
+    <li><b>Smart Farming System</b> (Python, Streamlit, SQLite, Sensor Simulation): System simulating sensor data to monitor soil moisture and weather, trigger real-time alerts, allow manual irrigation control, and log farmer responses for field efficiency.</li>
+    <li><b>QR Code-Based Smart Printing System</b> (React.js, Node.js, Python, QR Code API, UPI Integration): Secure, touchless printing solution using dynamic QR codes for instant document retrieval at print kiosks with integrated UPI payments and real-time print queue handling.</li>
   </ul>
 </details>
 
 ## 📫 Contact
 <p>
-  <a href="mailto:Bhanu_teja.muppala@okstate.edu"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/bhanu-teja-muppala-a73750217/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:bhanuutejamuppala1@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/bhanutejamuppala/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.bhanutejamuppala.me/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://behance.net/bhanuuteja"><img src="https://img.shields.io/badge/Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" /></a>
 </p>
 
