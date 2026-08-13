@@ -34,16 +34,6 @@ AI Engineer and Master's student in Computer Science, building Generative AI and
   </ul>
 </details>
 
-<details open>
-  <summary><b>💼 Experience</b></summary>
-  <ul>
-    <li><b>Student Web Specialist</b> - Oklahoma State University (Aug 2025 - May 2026)<br><i>Migrated/reformatted legacy content to modern CMS platforms, ensuring branding consistency, content accuracy across 50+ pages, and reduced publishing errors through streamlined workflows. Implemented WCAG 2.1 Level AA accessibility standards, including semantic HTML improvements, contrast fixes, keyboard navigation, and ARIA attributes on key pages.</i></li>
-    <li><b>Research Assistant</b> - Oklahoma State University, (rAIson) Laboratory (Aug 2024 - Present)<br><i>Built a 150K+ synthetic visual dataset (StepGame) for VLM spatial reasoning research. Built an automated RLHF pipeline combining Qwen-VL, Clingo validation, and iterative generate-to-verify workflows. Designed an automated evaluation pipeline for ASP correctness and benchmarking — results currently under peer review.</i></li>
-    <li><b>Machine Learning Engineer</b> - Alvion Global Solutions (Jan 2024 - Jul 2024)<br><i>Developed NLP pipelines for multi-language voice systems and built FastAPI REST endpoints for production. Reduced inference latency for real-time voice processing through pipeline and serving-layer optimization. Contributed to deployment of an emotion-aware conversational AI system (VEMI AI) from research to beta.</i></li>
-    <li><b>SEA Coordinator</b> - Systems Engineering Association, Sree Vidyanikethan Engineering College (Apr 2021 - May 2024)<br><i>Led the student body, organized technical events and coding contests for 300+ students, managed website content, and coordinated event logistics.</i></li>
-    <li><b>Treasurer</b> - Computer Science Graduate Student Association (CSGSA), Oklahoma State University (May 2025 - May 2026)<br><i>Managed finances and collaborated with cross-disciplinary teams to organize events, fostering communication and problem-solving in a dynamic environment.</i></li>
-  </ul>
-</details>
 
 <details open>
   <summary><b>🌟 Projects</b></summary>
